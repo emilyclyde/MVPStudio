@@ -11,11 +11,15 @@ Are you an emerging informational technology professional looking to strengthen 
 
 Are you a sponsor seeking to invest in our local community of civic groups, developers and interns?   
 
-Submit your application: [https://mvpstudio.github.io/mvp-studio-web-cms/](https://mvpstudio.github.io/mvp-studio-web-cms/) 
+Submit your application: [MVP Studio](https://mvpstudio.github.io/mvp-studio-web-cms/) 
+
 * * *
+
 ## Are you ready to build your vision? We can help!
 We are a collaborative of community-oriented industry professionals who are passionate about providing cost-effective design solutions that support your organization's mission. We help bring together civic groups with technology projects, mentors from the local tech companies and emerging information technology professionals needing to build their work portfolios.
+
 * * *
+
 ## Tailored directly to fit your vision!
 The MVP Studio process is unique and based on agile development. This process is split into phases:
 
@@ -38,3 +42,9 @@ The MVP Studio process is unique and based on agile development. This process is
 **_Support(there are two options):_**
 - Visionary has outside support in place
 - MVP standard support contract
+
+* * * 
+
+## Hack for a Cause 
+Join us at the [Hack for a Cause](https://hackforacause.org/) April 5-7, 2019! We will be on-site helping visionaries create and build their vision!
+![Hack for a Cause](https://www.facebook.com/techoregonswv/photos/gm.266765717198113/2031847837062212/?type=3&theater)
