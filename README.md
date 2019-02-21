@@ -12,29 +12,29 @@ Are you an emerging informational technology professional looking to strengthen 
 Are you a sponsor seeking to invest in our local community of civic groups, developers and interns?   
 
 Submit your application: [https://mvpstudio.github.io/mvp-studio-web-cms/](https://mvpstudio.github.io/mvp-studio-web-cms/) 
-
+* * *
 ## Are you ready to build your vision? We can help!
 We are a collaborative of community-oriented industry professionals who are passionate about providing cost-effective design solutions that support your organization's mission. We help bring together civic groups with technology projects, mentors from the local tech companies and emerging information technology professionals needing to build their work portfolios.
-
+* * *
 ## Tailored directly to fit your vision!
 The MVP Studio process is unique and based on agile development. This process is split into phases:
 
-*Proposal and project goals:*
+**_Proposal and project goals:_**
  - Is the problem understood?
  - Is there an MVP that can be delivered within 3 months?
  - Are there key stakeholders involved throughout the process?
  - Is there a support plan?
  - What is the budget?
 
-*Development:*
+**_Development:_**
 - Discovery : steps to understanding the problem
 - Prioritization : identify the must-haves to solve the problem
 - Wire-framing : priorities are defined and a mock-up begins of application
 - Development : developers begin building the vision
 
-*Hand-off:*
+**_Hand-off:_**
 - The sprints have ended and there is a working application that showcases your vision
 
-*Support(there are two options):*
+**_Support(there are two options):_**
 - Visionary has outside support in place
 - MVP standard support contract
