@@ -1,5 +1,4 @@
-### MVPStudio
-## Welcome to MVP Studio: we help visionaries build their vision!
+## Welcome to MVP Studio: we help visionaries build their vision! 
 **_The mission vision and objectives of MVP Studio:_**  
  - Help civic groups learn how to own a software project
  - Strengthen IT workforce with real world project based learning
