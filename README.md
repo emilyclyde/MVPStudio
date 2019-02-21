@@ -48,4 +48,4 @@ The MVP Studio process is unique and based on agile development. This process is
 ## Hack for a Cause 
 Join us at the [Hack for a Cause](https://hackforacause.org/) April 5-7, 2019! We will be on-site helping visionaries create and build their vision!  
 
-![](29983043_2031847837062212_5407335437581702660_o.jpg)
+![](MVPStudio/assets/hack4cause.jpg)
