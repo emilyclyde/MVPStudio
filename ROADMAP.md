@@ -20,13 +20,13 @@ We are a collaborative of community-oriented industry professionals who are pass
 **Main Objectives:**
 * Go to steering committee meetings on Thursdays 
 
-### Milestone: [Gather Projects] (https://github.com/emilyclyde/MVPStudio/issues/8)
+### Milestone: [Gather Projects](https://github.com/emilyclyde/MVPStudio/issues/8)
 >Gather projects that are not choosen to take part in the 2019 HACK
 
 **Main Objectives:**
 * Ask Antonio for the list 
 
-### Milestone: [Complete website] (https://github.com/emilyclyde/MVPStudio/issues/5)
+### Milestone: [Complete website](https://github.com/emilyclyde/MVPStudio/issues/5)
 >Critically needed for exposure and for interested parties to sign up
 
 **Main Objectives:**
