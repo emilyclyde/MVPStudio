@@ -15,7 +15,7 @@ We are a collaborative of community-oriented industry professionals who are pass
 
 
 ### Milestone: [Pre Hack Meetings] (https://github.com/emilyclyde/MVPStudio/issues/4)
->Becoming a presence at pre hack events and meetings will help increas our community outreach
+>Becoming a presence at pre hack events and meetings will help increase our community outreach
 
 **Main Objectives:**
 * Go to steering committee meetings on Thursdays 
@@ -30,4 +30,4 @@ We are a collaborative of community-oriented industry professionals who are pass
 >Critically needed for exposure and for interested parties to sign up
 
 **Main Objectives:**
-> Very close to completion
+* Very close to completion
