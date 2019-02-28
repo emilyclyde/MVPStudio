@@ -26,3 +26,8 @@ We are a collaborative of community-oriented industry professionals who are pass
 **Main Objectives:**
 * Ask Antonio for the list 
 
+### Milestone: [Complete website] (https://github.com/emilyclyde/MVPStudio/issues/5)
+>Critically needed for exposure and for interested parties to sign up
+
+**Main Objectives:**
+> Very close to completion
