@@ -6,7 +6,7 @@ We are a collaborative of community-oriented industry professionals who are pass
 
 ## What do we need to do?  
 
-### Milestone: [Start Social Media] (https://github.com/emilyclyde/MVPStudio/issues/7)
+### Milestone: [Start Social Media](https://github.com/emilyclyde/MVPStudio/milestone/1)
 >Pre hack this is important for visibility and ramping up interest within the community  
 
 **Main Objectives:**
@@ -14,7 +14,7 @@ We are a collaborative of community-oriented industry professionals who are pass
 * Update branding on Facebook page
 
 
-### Milestone: [Pre Hack Meetings] (https://github.com/emilyclyde/MVPStudio/issues/4)
+### Milestone: [Pre Hack Meetings](https://github.com/emilyclyde/MVPStudio/issues/4)
 >Becoming a presence at pre hack events and meetings will help increase our community outreach
 
 **Main Objectives:**
