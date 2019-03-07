@@ -12,22 +12,29 @@ We are a collaborative of community-oriented industry professionals who are pass
 **Main Objectives:**
 * Share and get people to like our Facebook page
 * Update branding on Facebook page
+* Update branding on Instagram
 
-
-### Milestone: [Pre Hack Meetings](https://github.com/emilyclyde/MVPStudio/issues/4)
+### Milestone: [Meetings](https://github.com/emilyclyde/MVPStudio/milestone/2)
 >Becoming a presence at pre hack events and meetings will help increase our community outreach
 
 **Main Objectives:**
-* Go to steering committee meetings on Thursdays 
+* Go to steering committee meetings on Thursdays & other community meet ups 
 
-### Milestone: [Gather Projects](https://github.com/emilyclyde/MVPStudio/issues/8)
+### Milestone: [Branding](https://github.com/emilyclyde/MVPStudio/milestone/3)  
+>Facebook and Instagram 
+
+**Main Objectives:**
+* Update our branding/content on Facebook and Instagram
+
+### Milestone: [Complete website](https://github.com/emilyclyde/MVPStudio/milestone/4)
+>Critically needed for exposure and for interested parties to sign up
+
+**Main Objectives:**
+* Complete by March 12, 2019
+
+### Milestone: [Gather Projects](https://github.com/emilyclyde/MVPStudio/milestone/5)
 >Gather projects that are not choosen to take part in the 2019 HACK
 
 **Main Objectives:**
 * Ask Antonio for the list 
 
-### Milestone: [Complete website](https://github.com/emilyclyde/MVPStudio/issues/5)
->Critically needed for exposure and for interested parties to sign up
-
-**Main Objectives:**
-* Very close to completion
